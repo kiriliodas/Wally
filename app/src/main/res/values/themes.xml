@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Wally" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/wally_bg</item>
+        <item name="android:statusBarColor">@color/wally_bg</item>
+        <item name="android:navigationBarColor">@color/wally_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

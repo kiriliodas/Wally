@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wally</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+    <string name="todays_pick">TODAY\'S PICK</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="save_wallpaper">Save</string>
+    <string name="wallpaper_set_success">Wallpaper Applied</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="lock_screen">Lock Screen</string>
+    <string name="both_screens">Both Screens</string>
+</resources>

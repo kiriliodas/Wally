@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wally_bg">#0A0A0A</color>
+    <color name="wally_card">#1A1A1A</color>
+    <color name="wally_bronze">#C8832A</color>
+    <color name="wally_bronze_light">#E0A04A</color>
+    <color name="wally_text">#F2EDE6</color>
+    <color name="wally_muted">#8A8580</color>
+    <color name="wally_hairline">#2A2622</color>
+</resources>
