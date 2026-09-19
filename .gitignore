@@ -1,0 +1,19 @@
+# Local machine configuration and secrets
+local.properties
+.env
+.env.*
+
+# Gradle / Android generated output
+.gradle/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE metadata
+.idea/
+*.iml
+.kotlin/
+
+# Final APK is an ignored hand-off artifact, never source
+artifacts/
